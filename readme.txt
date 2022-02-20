@@ -39,7 +39,7 @@ Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe.Appx
 Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe.Appx
 Microsoft.UI.Xaml.2.7_7.2109.13004.0_x64__8wekyb3d8bbwe.Appx
 Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx
-Microsoft.WindowsStore_22202.1402.0.0_neutral_~_8wekyb3d8bbwe.msixbundle
+Microsoft.WindowsStore_22202.1402.0.0_neutral___8wekyb3d8bbwe.msixbundle
 
 3.管理员模式打开powershell,请务必按照以下安装顺序
 
@@ -47,7 +47,7 @@ add-appxpackage Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbw
 add-appxpackage Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe.Appx
 add-appxpackage Microsoft.UI.Xaml.2.7_7.2109.13004.0_x64__8wekyb3d8bbwe.Appx
 add-appxpackage Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx
-add-appxpackage Microsoft.WindowsStore_22202.1402.0.0_neutral_~_8wekyb3d8bbwe.msixbundle
+add-appxpackage Microsoft.WindowsStore_22202.1402.0.0_neutral___8wekyb3d8bbwe.msixbundle
 
 
 
