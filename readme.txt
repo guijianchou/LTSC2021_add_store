@@ -26,6 +26,9 @@ Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx
 add-appxpackage Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx
 
 
+Note：Microsoft 2022-5 update cause windows store download apps faied with error code 0xC002001B, and ms announced new update patch KB5015020 has fixed the problem. however, ms has not delivery to all computer update channel until 22th/may, here in the download link: https://www.catalog.update.microsoft.com/Search.aspx?q=KB5015020
+
+
 中文:
 鉴于github上传安装包的大小限制，你可以去release页面下载商店和依赖包，或者自己手动去折腾
 
@@ -52,6 +55,6 @@ add-appxpackage Microsoft.UI.Xaml.2.7_7.2109.13004.0_x64__8wekyb3d8bbwe.Appx
 add-appxpackage Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx
 add-appxpackage Microsoft.WindowsStore_22202.1402.0.0_neutral___8wekyb3d8bbwe.msixbundle
 
-
+Note:win10和11的5月更新导致应用商店下载报错0xC002001B，微软宣称最新的KB5015020已经修复了这个错误。截止2022/5/22日该补丁还全部推送，需要去windows catalog下载 https://www.catalog.update.microsoft.com/Search.aspx?q=KB5015020
 
 
