@@ -55,6 +55,6 @@ add-appxpackage Microsoft.UI.Xaml.2.7_7.2109.13004.0_x64__8wekyb3d8bbwe.Appx
 add-appxpackage Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.appx
 add-appxpackage Microsoft.WindowsStore_22202.1402.0.0_neutral___8wekyb3d8bbwe.msixbundle
 
-Note:如果你使用的是最新11/12代intel cpu或者amd zen3 cpu，win10的4 5月更新导致应用商店下载报错0xC002001B，微软宣称最新的KB5015020已经修复了这个错误。截止2022/5/22日该补丁还全部推送，需要去windows catalog下载 https://www.catalog.update.microsoft.com/Search.aspx?q=KB5015020
+Note:如果你使用的是最新11/12代intel cpu或者amd zen3 cpu，win10的4 5月更新导致应用商店下载报错0xC002001B，微软宣称最新的KB5015020已经修复了这个错误。截止2022/5/22日该补丁还未推送，需要去windows catalog下载 https://www.catalog.update.microsoft.com/Search.aspx?q=KB5015020
 
 
